@@ -1,6 +1,6 @@
 # Welcome to Mike's Hub 👨‍💻
 
-Hey there! I'm [Your Name], a dynamic and creative developer with a passion for bringing ideas to life through code. I specialize in Python, JavaScript, and a variety of other powerful technologies. Dive into my repositories to see how I solve problems and innovate with each project.
+Hey there! I'm Michael Mekonin, a dynamic and creative developer with a passion for bringing ideas to life through code. I specialize in Python, JavaScript, and a variety of other powerful technologies. Dive into my repositories to see how I solve problems and innovate with each project.
 
 ## 🌟 About Me
 
@@ -10,7 +10,7 @@ I'm a software engineer who loves to explore the full stack of web technologies.
 - 🌱 I’m enhancing my expertise in advanced database management with MongoDB and SQL.
 - 👯 I’m on the lookout for ambitious projects that challenge my problem-solving skills.
 - 💼 I aim to build solutions that are not just functional, but also aesthetically pleasing, thanks to my CSS wizardry.
-- 📫 Reach out to me: [Your Email Address]
+- 📫 Reach out to me: burtuma3@gmail.com
 
 ## 💻 Tech Stack
 
