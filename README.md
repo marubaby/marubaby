@@ -38,7 +38,7 @@ Below are some of the projects I've worked on. They range from small, fun apps t
 
 ## 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=vue)
+![Your GitHub Stats]([https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=vue](https://github-readme-stats.vercel.app/api?username={username}&show_icons=true))
 
 ## 🤝 Connect with Me
 
